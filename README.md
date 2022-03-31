@@ -1,1 +1,1 @@
-# scio-bootstrap-tailwind
+# scio-bootstrap
