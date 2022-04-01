@@ -20,6 +20,7 @@ h1, h2 {
     text-emphasis-color: white;
 }
 
-/*.m1 {
-    visibility: hidden;
-}*/
+.homeBtn {
+    border: none; 
+    outline:none;
+}
