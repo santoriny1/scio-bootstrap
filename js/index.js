@@ -71,6 +71,3 @@ var tooltipList = tooltipTriggerList.map(function (tooltipTriggerEl) {
   return new bootstrap.Tooltip(tooltipTriggerEl)
 });
 
-//For Feather
-feather.replace();
-
